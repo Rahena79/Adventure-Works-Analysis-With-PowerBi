@@ -19,7 +19,7 @@ In this project, we worked on:
 
 ## 🗂️ Data Sources
 
-- Excel spreadsheets containing regional product sales data.
+- Excel spreadsheets containing regional sales data.
 
 ## 📊 Dashboard Insights
 
